@@ -1,5 +1,9 @@
 # Vue Calendar App
 
+![alt text](docs/screenshot.png "Calendar App Screenshot")
+
+A calendar app which lets you add, remove and update calendar events! Built using Vue.js
+
 ## Single-file components
 
 1. Ensure you have `npm` installed.
